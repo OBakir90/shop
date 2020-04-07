@@ -110,105 +110,105 @@
         "id": 16,
         "name": "Banana - 1 Kg",
         "price": 45,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/banana.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/banana.jpg",
         "category": "fruits"
     },
     {
         "id": 17,
         "name": "Grapes - 1 Kg",
         "price": 60,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/grapes.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/grapes.jpg",
         "category": "fruits"
     },
     {
         "id": 18,
         "name": "Mango - 1 Kg",
         "price": 75,
-        "image": "hhttps://github.com/itprofessionalsfrontend/shop/tree/master/assets/mango.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/mango.jpg",
         "category": "fruits"
     },
     {
         "id": 19,
         "name": "Musk Melon - 1 Kg",
         "price": 36,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/musk-melon.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/musk-melon.jpg",
         "category": "fruits"
     },
     {
         "id": 20,
         "name": "Orange - 1 Kg",
         "price": 75,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/orange.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/orange.jpg",
         "category": "fruits"
     },
     {
         "id": 21,
         "name": "Pears - 1 Kg",
         "price": 69,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/pears.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/pears.jpg",
         "category": "fruits"
     },
     {
         "id": 22,
         "name": "Pomegranate - 1 Kg",
         "price": 95,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/pomegranate.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/pomegranate.jpg",
         "category": "fruits"
     },
     {
         "id": 23,
         "name": "Raspberry - 1/4 Kg",
         "price": 160,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/raspberry.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/raspberry.jpg",
         "category": "fruits"
     },
     {
         "id": 24,
         "name": "Strawberry - 1/4 Kg",
         "price": 180,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/strawberry.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/strawberry.jpg",
         "category": "fruits"
     },
     {
         "id": 25,
         "name": "Water Melon - 1 Kg",
         "price": 28,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/water-melon.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/water-melon.jpg",
         "category": "fruits"
     },
     {
         "id": 26,
         "name": "Almonds - 1/4 Kg",
         "price": 200,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/almonds.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/almonds.jpg",
         "category": "nuts"
     },
     {
         "id": 27,
         "name": "Pista - 1/4 Kg",
         "price": 190,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/pista.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/assets/pista.jpg",
         "category": "nuts"
     },
     {
         "id": 28,
         "name": "Nuts Mixture - 1 Kg",
         "price": 950,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/nuts-mixture.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/nuts-mixture.jpg",
         "category": "nuts"
     },
     {
         "id": 29,
         "name": "Cashews - 1 Kg",
         "price": 650,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/cashews.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/cashews.jpg",
         "category": "nuts"
     },
     {
         "id": 30,
         "name": "Walnuts - 1/4 Kg",
         "price": 170,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/walnuts.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/walnuts.jpg",
         "category": "nuts"
     }
 
