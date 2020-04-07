@@ -5,105 +5,105 @@
         "id": 1,
         "name": "Brocolli - 1 Kg",
         "price": 120,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/broccoli.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/tree/master/assets/broccoli.jpg",
         "category": "vegetables"
     },
     {
         "id": 2,
         "name": "Cauliflower - 1 Kg",
         "price": 60,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/cauliflower.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/cauliflower.jpg",
         "category": "vegetables"
     },
     {
         "id": 3,
         "name": "Cucumber - 1 Kg",
         "price": 48,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/cucumber.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/cucumber.jpg",
         "category": "vegetables"
     },
     {
         "id": 4,
         "name": "Beetroot - 1 Kg",
         "price": 32,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/beetroot.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/beetroot.jpg",
         "category": "vegetables"
     },
     {
         "id": 5,
         "name": "Carrot - 1 Kg",
         "price": 56,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/carrots.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/carrots.jpg",
         "category": "vegetables"
     },
     {
         "id": 6,
         "name": "Tomato - 1 Kg",
         "price": 16,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/tomato.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/tomato.jpg",
         "category": "vegetables"
     },
     {
         "id": 7,
         "name": "Beans - 1 Kg",
         "price": 82,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/beans.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/beans.jpg",
         "category": "vegetables"
     },
     {
         "id": 8,
         "name": "Brinjal - 1 Kg",
         "price": 35,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/brinjal.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/brinjal.jpg",
         "category": "vegetables"
     },
     {
         "id": 9,
         "name": "Capsicum",
         "price": 60,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/capsicum.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/capsicum.jpg",
         "category": "vegetables"
     },
     {
         "id": 10,
         "name": "Mushroom - 1 Kg",
         "price": 75,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/button-mushroom.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/button-mushroom.jpg",
         "category": "vegetables"
     },
     {
         "id": 11,
         "name": "Potato - 1 Kg",
         "price": 22,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/potato.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/potato.jpg",
         "category": "vegetables"
     },
     {
         "id": 12,
         "name": "Pumpkin - 1 Kg",
         "price": 48,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/pumpkin.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/pumpkin.jpg",
         "category": "vegetables"
     },
     {
         "id": 13,
         "name": "Corn - 1 Kg",
         "price": 75,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/corn.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/corn.jpg",
         "category": "vegetables"
     },
     {
         "id": 14,
         "name": "Onion - 1 Kg",
         "price": 16,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/onion.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/onion.jpg",
         "category": "vegetables"
     },
     {
         "id": 15,
         "name": "Apple - 1 Kg",
         "price": 72,
-        "image": "https://github.com/itprofessionalsfrontend/shop/tree/master/assets/apple.jpg",
+        "image": "https://raw.githubusercontent.com/itprofessionalsfrontend/shop/master/assets/apple.jpg",
         "category": "fruits"
     },
     {
